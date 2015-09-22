@@ -21,8 +21,7 @@ STEPS :
 1)  Open presentation with libreOffice and export it in HTML, first file as index.html (file > export > hmtl) in a temp dir (to be deleted at the end)
 should be done before the customer meeting
 
-2) Launch and valid 
-     ![Click to Launch](http://launch-shifter.rhcloud.com/launch/LAUNCH ON.svg)]( https://openshift.redhat.com/app/console/application_type/custom?&cartridges%5B%5D=php-5.4&initial_git_url=https://github.com/lucpierson/PHP-prz.git&name=Presentation)
+2) Launch and valid  [![LAUNCH ON OpenShift](http://launch-shifter.rhcloud.com/launch/LAUNCH ON.svg)](https://openshift.redhat.com/app/console/application_type/custom?&cartridges%5B%5D=php-5.4&initial_git_url=https://github.com/lucpierson/PHP-prz.git&name=Presentation)
 
 
 3) On the created application (named Presentation), 
