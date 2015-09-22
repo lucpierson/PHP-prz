@@ -21,13 +21,13 @@ STEPS :
 1)  Open presentation with libreOffice and export it in HTML, first file as index.html (file > export > hmtl) in a temp dir (to be deleted at the end)
 should be done before the customer meeting
 
-2) Launch and valid  [![LAUNCH ON OpenShift](http://launch-shifter.rhcloud.com/launch/LAUNCH ON.svg)](https://openshift.redhat.com/app/console/application_type/custom?&cartridges%5B%5D=php-5.4&initial_git_url=https://github.com/lucpierson/PHP-prz.git&name=Presentation)
+2) Launch and valid  [![LAUNCH ON OpenShift](http://people.redhat.com/lpierson/openshift.svg)](https://openshift.redhat.com/app/console/application_type/custom?&cartridges%5B%5D=php-5.4&initial_git_url=https://github.com/lucpierson/PHP-prz.git&name=Presentation)
 
 
 3) On the created application (named Presentation), 
-		- click "choose Files"  and select all the files created in the tmp dir 
-		- click "upload"
-		- click on "Launch uploaded presentation"
+   - click "choose Files"  and select all the files created in the tmp dir 
+   - click "upload"
+   - click on "Launch uploaded presentation"
 
 
 4) the gear "Presentation" should then be deleted for another usage
