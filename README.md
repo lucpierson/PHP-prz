@@ -1,3 +1,7 @@
+[![explications](http://people.redhat.com/lpierson/PHP-PRZ/animated2.gif)]
+
+
+
 Easy demonstration of OpenShift online
 ======================================
 Export in HTML your presentation, 
