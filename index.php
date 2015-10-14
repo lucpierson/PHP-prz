@@ -58,7 +58,7 @@
       
       </div> 
       <div id="toto">
-          <h2><a href="http://presentation-luc.rhcloud.com/uploads" data-label="presentation">Launch uploaded presentation</a></h2>
+          <h2><a href="./uploads" data-label="presentation">Launch uploaded presentation</a></h2>
       </div>
 
       </div><!-- end .container -->
