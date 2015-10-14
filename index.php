@@ -1,9 +1,9 @@
 <?php
 /**
- * Multiple file upload with progress bar php and jQuery
+ * Simple demo a presentation on openshift online
  * 
- * @author Resalat Haque
- * @link http://www.w3bees.com
+ * @author luc Pierson
+ * @link http://www.redhat.com
  */
 
 ?>
@@ -17,7 +17,7 @@
       <meta charset="utf-8" />
       <!-- styles -->
 
-      <link rel="stylesheet" type="text/css" href="css/style.css">
+      <link rel="stylesheet" type="text/css" href="http://people.redhat.com/lpierson/PHP-PRZ/style.css">
 
 </head>
  
@@ -25,13 +25,13 @@
 
       <br/>
       <div align="center" class="container">
-            <h2>Hybrid Platform as a Service by the open source leader</h2>
+            <h1>Hybrid Platform as a Service by the open source leader</h2>
 
 
       <p>Red Hat® is the world's leading provider of open source solutions, using a community-powered approach to provide reliable and high-performing cloud, virtualization, storage, Linux&reg;, and middleware technologies. <br/><br/><br/><a href="https://www.redhat.com/about/">Learn More about Red Hat&reg;</a></p>
     </section>
 
-      <h1>Openshift - your presentation hosted on PaaS</h1>
+      <h2>Openshift - your presentation hosted on public PaaS</h1>
       <img src="http://people.redhat.com/lpierson/PHP-PRZ/animated2.gif" />
       <p></p>
 
@@ -57,17 +57,18 @@
 
       
       </div> 
-      <h2><a href="./uploads" data-label="presentation">Launch uploaded presentation</a></h2>
-
+      <div id="toto">
+          <h2><a href="http://presentation-luc.rhcloud.com/uploads" data-label="presentation">Launch uploaded presentation</a></h2>
+      </div>
 
       </div><!-- end .container -->
 
       <!-- javascript dependencies -->
-      <script type="text/javascript" src="js/jquery.min.js"></script>
-      <script type="text/javascript" src="js/jquery.form.min.js"></script>
+      <script type="text/javascript" src="http://people.redhat.com/lpierson/PHP-PRZ/jquery.min.js"></script>
+      <script type="text/javascript" src="http://people.redhat.com/lpierson/PHP-PRZ/jquery.form.min.js"></script>
       
       <!-- main script -->
-      <script type="text/javascript" src="js/script.js"></script>
+      <script type="text/javascript" src="http://people.redhat.com/lpierson/PHP-PRZ/script.js"></script>
 
       <p></p><p></p>
 
