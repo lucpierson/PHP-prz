@@ -1,4 +1,4 @@
-[![explications](http://people.redhat.com/lpierson/PHP-PRZ/animated2.gif)]
+[![explications](http://people.redhat.com/lpierson/PHP-PRZ/animatedslow.gif)]
 
 
 

@@ -32,7 +32,7 @@
     </section>
 
       <h2>Openshift - your presentation hosted on public PaaS</h1>
-      <img src="http://people.redhat.com/lpierson/PHP-PRZ/animated2.gif" />
+      <img src="http://people.redhat.com/lpierson/PHP-PRZ/animatedfast.gif" />
       <p></p>
 
 
