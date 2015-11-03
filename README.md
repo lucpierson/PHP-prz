@@ -42,6 +42,4 @@ Notes
 The following functionality is covered:
     first steps and Readme
 
-to come : update CSS to add icons 
-
 
