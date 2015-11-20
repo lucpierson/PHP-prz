@@ -8,7 +8,7 @@
 
 $max_size = 1024*2000; 
 $extensions = array('jpeg', 'jpg', 'png', 'html');
-$dir = '/opt/openshift/src/';
+$dir = '/tmp/';
 $count = 0;
 
 
