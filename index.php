@@ -57,7 +57,7 @@
       
       </div> 
       <div id="toto">
-          <h2><a href="/tmp/" data-label="presentation">Launch uploaded presentation</a></h2>
+          <h2><a href="/uploads/" data-label="presentation">Launch uploaded presentation</a></h2>
       </div>
 
       </div><!-- end .container -->
