@@ -31,8 +31,7 @@
       <p>Red Hat® is the world's leading provider of open source solutions, using a community-powered approach to provide reliable and high-performing cloud, virtualization, storage, Linux&reg;, and middleware technologies. <br/><br/><br/><a href="https://www.redhat.com/about/">Learn More about Red Hat&reg;</a></p>
     </section>
 
-      <h2>Openshift - your presentation hosted on public PaaS</h1>
-      <img src="http://people.redhat.com/lpierson/PHP-PRZ/animatedfast.gif" />
+      <h2>Openshift - your presentation hosted on public PaaS</h2>
       <p></p>
 
 
@@ -58,7 +57,7 @@
       
       </div> 
       <div id="toto">
-          <h2><a href="./uploads" data-label="presentation">Launch uploaded presentation</a></h2>
+          <h2><a href="/uploads/" data-label="presentation">Launch uploaded presentation</a></h2>
       </div>
 
       </div><!-- end .container -->

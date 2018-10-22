@@ -8,7 +8,7 @@
 
 $max_size = 1024*2000; 
 $extensions = array('jpeg', 'jpg', 'png', 'html');
-$dir = 'uploads/';
+$dir = '/tmp/';
 $count = 0;
 
 
